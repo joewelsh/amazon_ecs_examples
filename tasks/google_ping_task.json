@@ -119,7 +119,7 @@
     "taskRoleArn": "arn:aws:iam::739672403694:role/ecsTaskExecutionRole",
     "volumes": [],
     "placementConstraints": [],
-    "family": "ping_google",
+    "family": "google_ping_task",
     "tags": [],
     "networkMode": "awsvpc",
     "runtimePlatform": {
